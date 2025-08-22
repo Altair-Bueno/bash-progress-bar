@@ -6,6 +6,8 @@ This repository provides a reusable Bash function to display a progress bar in y
 
 [![asciicast](https://asciinema.org/a/YFESkDLupPlC32ZkebTpKvJaF.svg)](https://asciinema.org/a/YFESkDLupPlC32ZkebTpKvJaF)
 
+> Thanks YSAP for the idea! See the original bash-progress-bar at <https://www.youtube.com/watch?v=U4CzyBXyOms>
+
 ## Features
 
 - Pure Bash implementation (no dependencies)
